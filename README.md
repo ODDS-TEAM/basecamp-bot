@@ -7,3 +7,7 @@
 
 
 🤖 Basecamp Autobot
+
+### Ideas
+1. It's easy to add new rules to autobot.
+2. The autobot can send .gif file to chat rooms.
