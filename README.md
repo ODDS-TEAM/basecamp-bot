@@ -29,3 +29,7 @@
 1. Autobot should have command when call it such as <command> lunch.
   (Mybe commands is Thainame such as สมจิต กินข้าวโว้ย)
 1. Autobot to add a new item in a to-do list: `Autobot, create "Don't forget drink to water" in "sudo proof"`
+1. Autobot to book meeting room.
+1. Autobot to customize the schedule reminder.
+1. Autobot to add people into the new channel, For example: `Autobot, add here in "new channel"`
+1. Autobot to count total attendee in an event by count wording: +1
