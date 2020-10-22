@@ -9,9 +9,10 @@
 🤖 Basecamp Autobot
 
 ### Ideas
+
 1. It's easy to add new rules to autobot.
-2. The autobot can send .gif file to chat rooms.
-3. Modularized and configurable by yml. For example:
+1. The autobot can send .gif file to chat rooms.
+1. Modularized and configurable by yml. For example:
 
    ```
    type: schedule
@@ -23,7 +24,8 @@
    ```
 
    From the example above, `Alarm.inspect` and `Alarm.notify` will be automatic executed every begining of each hour.
-4. Autobot should recommened the lunch menu.
-5. Autobot should have Thai name
-6. Autobot should have command when call it such as <command>  lunch.
+1. Autobot should recommened the lunch menu.
+1. Autobot should have Thai name
+1. Autobot should have command when call it such as <command> lunch.
   (Mybe commands is Thainame such as สมจิต กินข้าวโว้ย)
+1. Autobot to add a new item in a to-do list: `Autobot, create "Don't forget drink to water" in "sudo proof"`
