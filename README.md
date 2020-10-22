@@ -23,3 +23,7 @@
    ```
 
    From the example above, `Alarm.inspect` and `Alarm.notify` will be automatic executed every begining of each hour.
+4. Autobot should recommened the lunch menu.
+5. Autobot should have Thai name
+6. Autobot should have command when call it such as <command>  lunch.
+  (Mybe commands is Thainame such as สมจิต กินข้าวโว้ย)
