@@ -11,3 +11,15 @@
 ### Ideas
 1. It's easy to add new rules to autobot.
 2. The autobot can send .gif file to chat rooms.
+3. Modularized and configurable by yml. For example:
+
+   ```
+   type: schedule
+   tasks:
+        - Alarm.inspect
+        - Alarm.notify
+   options:
+        schedule: 0 * * * *
+   ```
+
+   From the example above, `Alarm.inspect` and `Alarm.notify` will be automatic executed every begining of each hour.
