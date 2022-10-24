@@ -34,3 +34,4 @@
 1. Autobot to add people into the new channel, For example: `Autobot, add here in "new channel"`
 1. Autobot to count total attendee in an event by count wording: +1
 1. Autobot can tag everyone on Campfire like @channel on Slack
+1. Autobot to send document template file, For example: `certification of employment`
