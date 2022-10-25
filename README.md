@@ -14,7 +14,7 @@
 1. The autobot can send .gif file to chat rooms.
 1. Modularized and configurable by yml. For example:
 
-   ```
+   ```yaml
    type: schedule
    tasks:
         - Alarm.inspect
